@@ -1,0 +1,15 @@
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\bin\Debug\netcoreapp3.1\NameAndAddress.exe
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\bin\Debug\netcoreapp3.1\NameAndAddress.deps.json
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\bin\Debug\netcoreapp3.1\NameAndAddress.runtimeconfig.json
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\bin\Debug\netcoreapp3.1\NameAndAddress.runtimeconfig.dev.json
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\bin\Debug\netcoreapp3.1\NameAndAddress.dll
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\bin\Debug\netcoreapp3.1\NameAndAddress.pdb
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\obj\Debug\netcoreapp3.1\NameAndAddress.csprojAssemblyReference.cache
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\obj\Debug\netcoreapp3.1\NameAndAddress.AssemblyInfoInputs.cache
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\obj\Debug\netcoreapp3.1\NameAndAddress.AssemblyInfo.cs
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\obj\Debug\netcoreapp3.1\NameAndAddress.csproj.CoreCompileInputs.cache
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\obj\Debug\netcoreapp3.1\NameAndAddress.dll
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\obj\Debug\netcoreapp3.1\NameAndAddress.pdb
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\obj\Debug\netcoreapp3.1\NameAndAddress.genruntimeconfig.cache
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\obj\Debug\netcoreapp3.1\NameAndAddress.Properties.Resources.resources
+G:\C#\.NET Projects\CSET3200\HW3\NameAndAddress\NameAndAddress\obj\Debug\netcoreapp3.1\NameAndAddress.csproj.GenerateResource.cache
