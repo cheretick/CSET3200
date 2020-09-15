@@ -1,0 +1,13 @@
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.csprojAssemblyReference.cache
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.AssemblyInfoInputs.cache
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.AssemblyInfo.cs
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.csproj.CoreCompileInputs.cache
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\SendEmail.exe
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\SendEmail.deps.json
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\SendEmail.runtimeconfig.json
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\SendEmail.runtimeconfig.dev.json
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\SendEmail.dll
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\SendEmail.pdb
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.dll
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.pdb
+G:\C#\.NET Projects\CSET3200\HW5\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.genruntimeconfig.cache
