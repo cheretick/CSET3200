@@ -7,24 +7,24 @@ namespace SendEmail
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("SEND TO ADDRESS: ");
-			string toAddress = Console.ReadLine();
-			Console.WriteLine("SUBJECT: ");
-			string subject = Console.ReadLine();
-			Console.WriteLine("BODY: ");
-			string body = Console.ReadLine();
+			Console.Write("SEND TO ADDRESS: ");
+			var toAddress = Console.ReadLine();
+			Console.Write("SUBJECT: ");
+			var subject = Console.ReadLine();
+			Console.Write("BODY: ");
+			var body = Console.ReadLine();
 			Console.WriteLine("Sending..");
-			SendMessage("outlook.office365.com", toAddress, subject, body);
+			SendMessage(toAddress, subject, body);
 		}
 
-		public static void SendMessage(string server,string toAddress, string subject, string body)
+		public static void SendMessage(string toAddress, string subject, string body)
 		{
-			MailMessage message = new MailMessage("collin.heretick@rockets.utoledo.edu", toAddress)
+			var message = new MailMessage("collin.heretick@rockets.utoledo.edu", toAddress)
 			{
 				Subject = subject, Body = body
 			};
 
-			SmtpClient client = new SmtpClient(server)
+			var client = new SmtpClient("outlook.office365.com")
 			{
 				Port = 587,
 				Credentials = new System.Net.NetworkCredential("chereti2@rockets.utoledo.edu", "Floyd91-"),
