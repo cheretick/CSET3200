@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\C#\\.NET Projects\\CSET3200\\HW7\\Rocket University\\Rocket University\\Rocket University.csproj": {}
+    "C:\\School\\2020 Fall\\CSET3200\\HW7\\Rocket University\\Rocket University\\Rocket University.csproj": {}
   },
   "projects": {
-    "G:\\C#\\.NET Projects\\CSET3200\\HW7\\Rocket University\\Rocket University\\Rocket University.csproj": {
+    "C:\\School\\2020 Fall\\CSET3200\\HW7\\Rocket University\\Rocket University\\Rocket University.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\C#\\.NET Projects\\CSET3200\\HW7\\Rocket University\\Rocket University\\Rocket University.csproj",
+        "projectUniqueName": "C:\\School\\2020 Fall\\CSET3200\\HW7\\Rocket University\\Rocket University\\Rocket University.csproj",
         "projectName": "Rocket University",
-        "projectPath": "G:\\C#\\.NET Projects\\CSET3200\\HW7\\Rocket University\\Rocket University\\Rocket University.csproj",
+        "projectPath": "C:\\School\\2020 Fall\\CSET3200\\HW7\\Rocket University\\Rocket University\\Rocket University.csproj",
         "packagesPath": "C:\\Users\\colli\\.nuget\\packages\\",
-        "outputPath": "G:\\C#\\.NET Projects\\CSET3200\\HW7\\Rocket University\\Rocket University\\obj\\",
+        "outputPath": "C:\\School\\2020 Fall\\CSET3200\\HW7\\Rocket University\\Rocket University\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\colli\\AppData\\Roaming\\NuGet\\NuGet.Config",
