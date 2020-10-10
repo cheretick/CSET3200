@@ -23,7 +23,7 @@ namespace Rocket_University
 		{
 			DefaultFilesOptions options = new DefaultFilesOptions();
 			options.DefaultFileNames.Clear();
-			options.DefaultFileNames.Add("Index.html");
+			options.DefaultFileNames.Add("/wwwroot/Pages/Index.html");
 			app.UseDefaultFiles(options);
 
 			app.UseStaticFiles();

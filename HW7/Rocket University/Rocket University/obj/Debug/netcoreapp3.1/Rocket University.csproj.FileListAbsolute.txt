@@ -18,3 +18,23 @@ G:\C#\.NET Projects\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\n
 G:\C#\.NET Projects\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\Rocket University.dll
 G:\C#\.NET Projects\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\Rocket University.pdb
 G:\C#\.NET Projects\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\Rocket University.genruntimeconfig.cache
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\bin\Debug\netcoreapp3.1\appsettings.json
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\bin\Debug\netcoreapp3.1\Rocket University.exe
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\bin\Debug\netcoreapp3.1\Rocket University.deps.json
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\bin\Debug\netcoreapp3.1\Rocket University.runtimeconfig.json
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\bin\Debug\netcoreapp3.1\Rocket University.runtimeconfig.dev.json
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\bin\Debug\netcoreapp3.1\Rocket University.dll
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\bin\Debug\netcoreapp3.1\Rocket University.pdb
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\Rocket University.csprojAssemblyReference.cache
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\Rocket University.AssemblyInfoInputs.cache
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\Rocket University.AssemblyInfo.cs
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\Rocket University.csproj.CoreCompileInputs.cache
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\Rocket University.MvcApplicationPartsAssemblyInfo.cache
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\Rocket University.RazorTargetAssemblyInfo.cache
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\staticwebassets\Rocket University.StaticWebAssets.Manifest.cache
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\staticwebassets\Rocket University.StaticWebAssets.xml
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\Rocket University.dll
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\Rocket University.pdb
+C:\School\2020 Fall\CSET3200\HW7\Rocket University\Rocket University\obj\Debug\netcoreapp3.1\Rocket University.genruntimeconfig.cache
