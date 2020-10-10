@@ -1,6 +1,16 @@
-﻿
+﻿body {
+    background-color: lightgrey
+}
 
-body {
+nav {
+    background-image: url('../Images/Nav_Bar.png');
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    font-size: 1.2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif"
 }
 
 .centerimg {
@@ -21,3 +31,4 @@ body {
     color: white;
     text-shadow: 2px 2px black;
 }
+
