@@ -1,0 +1,23 @@
+﻿body {
+	text-align: center;
+}
+table, th, td {
+	border: 1px solid black;
+}
+th {
+	background-color: lightcoral;
+}
+td {
+	background-color: lightgray;
+}
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+form{
+	display: inline-block;
+	border: 1px solid black;
+}
+input {
+	margin: 2px;
+}
