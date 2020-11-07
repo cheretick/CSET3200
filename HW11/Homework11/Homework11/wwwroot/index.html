@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    
+
+</head>
+	<body>
+		<p id="groceries"></p>
+
+		<script type="text/javascript" src="JavaScript.js"></script>
+		<script>
+			var groceryList = "<?xml version=\"1.0\" encoding=\"utf-8\" ?>" +
+				"<groceryList>" +
+				"<fruits>" +
+				"<fruit>apples</fruit>" +
+				"<fruit>bananas</fruit>" +
+				"<fruit>grapes</fruit>" +
+				"<fruit>oranges</fruit>" +
+				"</fruits>" +
+				"<vegetables>" +
+				"<vegetable>asparagus</vegetable>" +
+				"<vegetable>lettuce</vegetable>" +
+				"<vegetable>broccoli</vegetable>" +
+				"<vegetable>turnips</vegetable>" +
+				"</vegetables>" +
+				"<frozenFoods>" +
+				"<frozen>pizza</frozen>" +
+				"<frozen>ice cream</frozen>" +
+				"<frozen>hamburger patties</frozen>" +
+				"<frozen>corn dogs</frozen>" +
+				"</frozenFoods>" +
+				"<other>" +
+				"<cleaningSupplies>" +
+				"<cleaning>paper towels</cleaning>" +
+				"<cleaning>Windex</cleaning>" +
+				"<cleaning>sponges</cleaning>" +
+				"</cleaningSupplies>" +
+				"<toiletries>" +
+				"<toiletry>toilet paper</toiletry>" +
+				"<toiletry>tooth brushes</toiletry>" +
+				"<toiletry>shampoo</toiletry>" +
+				"</toiletries>" +
+				"<medicines>" +
+				"<medicine>ibuprofen</medicine>" +
+				"<medicine>acetaminophen</medicine>" +
+				"<medicine>vitamin D</medicine>" +
+				"</medicines>" +
+				"</other>" +
+				"</groceryList>";
+
+			parser = new DOMParser();
+			xmlDoc = parser.parseFromString(groceryList, "text/xml");
+			document.write("Fruits:  <div style=\"margin-left: 20px\">");
+			for (var i = 0; i < xmlDoc.getElementsByTagName("fruit").length; i++) {
+				document.write(xmlDoc.getElementsByTagName("fruit")[i].childNodes[0].nodeValue + "<br>");
+			}
+			document.write("</div>");
+		</script>
+		
+	</body>
+</html>
